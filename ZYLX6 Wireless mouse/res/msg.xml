@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Window caption="0,0,0,40" size="400,200">
+	<VerticalLayout bkimage="skins/select_color_bg.png">
+		<HorizontalLayout name="appbar" height="40" inset="6,-1" bkcolor="#FF202223">
+			<Label name="warning_title" align="left" valign="vcenter" textpadding="20,0,0,0" textcolor="#FFFFFFFF" resourcetext="true"/>
+		</HorizontalLayout>
+		
+		<Label name="warning" resourcetext="true" height="100" textpadding="40,0,40,0" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+		
+		<VerticalLayout height="50">
+			<Control/>
+			<VerticalLayout height="35">
+				<HorizontalLayout>
+					<Control/>
+					<Button name="confirm_btn" text="confirm_text" resourcetext="true" width="118" normalimage="skins/msg_btn_1.png" hotimage="skins/msg_btn_2.png" pushedimage="skins/msg_btn_2.png" textcolor="0xFFFFFFFF" hottextcolor="0xFFfa7b03" pushedtextcolor="0xFFfa7b03"/>
+					<Button name="cancel_btn" text="cancel_text" resourcetext="true" padding="20,0,0,0" width="118" normalimage="skins/msg_btn_1.png" hotimage="skins/msg_btn_2.png" pushedimage="skins/msg_btn_2.png" textcolor="0xFFFFFFFF" hottextcolor="0xFFfa7b03" pushedtextcolor="0xFFfa7b03"/>
+					<Control/>
+				</HorizontalLayout>
+			</VerticalLayout>
+			<Control/>
+		</VerticalLayout>
+	</VerticalLayout>
+</Window>

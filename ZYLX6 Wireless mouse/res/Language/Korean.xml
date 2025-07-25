@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Res>
+	<Text id="chinese_text" value="中文"/>
+	<Text id="english_text" value="English"/>
+	<Text id="german_text" value="German"/>
+	<Text id="polish_text" value="Polish"/>
+	<Text id="finnish_text" value="Finnish"/>
+	<Text id="swedish_text" value="Swedish"/>
+	<Text id="danish_text" value="Danish"/>
+	<Text id="hungarian_text" value="Hungarian"/>
+	<Text id="french_text" value="French"/>
+	<Text id="dutch_text" value="Dutch"/>
+	<Text id="czech_text" value="Czech"/>
+	<Text id="slovak_text" value="Slovak"/>
+	<Text id="croatia_text" value="Croatia"/>
+	<Text id="korean_text" value="한국어"/>
+	
+	<Text id="lan_text" value="언어"/>
+	<Text id="about_text" value="정보"/>
+	<Text id="version_text" value="Version:V1.0.0.0"/>
+	<Text id="copyright_text" value="CopyRight (C) 2020"/>
+  <!-- Config Page-->
+  <Text id="version" value="V1.0"/>
+  <Text id="configuration_text" value="최대화"/>
+  <Text id="exit_text" value="나가기"/>
+  <Text id="mouse_name_text" value="Wireless Gaming Gear"/>
+  <Text id="profile_text" value="프로필"/>
+  <Text id="low_power_text" value="충전 필요"/>
+  <Text id="charging_text" value="충전 중..."/>
+  <!--mouse-->
+  <Text id="mouse_light_text" value="LED 설정"/>
+  <Text id="mouse_button_text" value="버튼 설정"/>
+  <Text id="mouse_dpi_setting_text" value="DPI 설정"/>
+  <Text id="mouse_macro_text" value="매크로 설정"/>
+  <Text id="profile_menu_tips" value="메뉴"/>
+  <Text id="add_profile_tips" value="추가"/>
+  <Text id="delete_profile_tips" value="삭제"/>
+  <Text id="export_profile_tips" value="내보내기"/>
+  <Text id="import_profile_tips" value="가져오기"/>
+  <Text id="copy_profile_tips" value="복사"/>
+  <Text id="reset_profile_tips" value="리셋"/>
+  <Text id="profile_name_text" value="프로필 이름"/>
+  <Text id="confirm_text" value="OK"/>
+  <Text id="link_app_text" value="링크 앱"/>
+  <Text id="apply_text" value="적용"/>
+  
+  <!--mouse Button page-->
+  <Text id="mouse_default_function_text" value="초기화"/>
+  <Text id="mouse_mouse_function_text" value="마우스"/>
+  <Text id="mouse_dpi_function_text" value="DPI"/>
+  <Text id="mouse_fire_button_text" value="단축키"/>
+  <Text id="mouse_keyboard_function_text" value="키보드"/>
+  <Text id="mouse_media_function_text" value="미디어"/>
+  <Text id="mouse_system_button_text" value="설정"/>
+  <Text id="mouse_macro_function_text" value="매크로"/>
+  <Text id="mouse_shortcut_function_text" value="경로"/>
+  <Text id="mouse_function_text" value="마우스 기능"/>
+  <Text id="media_function_text" value="미디어 기능"/>
+  <Text id="shortcut_function_text" value="경로"/>
+  <Text id="hotkey_function_text" value="단축키"/>
+  <Text id="disabled_function_text" value="사용안함"/>
+  <Text id="system_function_text" value="시스템 단축키:"/>
+  <Text id="keyboard_type_text" value="키 입력:"/>
+  <Text id="select_macro_text" value="매크로 선택:"/>
+  <Text id="repeat_mode_text" value="반복 모드:"/>
+  <Text id="repeat_mode_1_text" value="재생 횟수"/>
+  <Text id="repeat_mode_2_text" value="재생 중지하려면 아무키나 누르세요"/>
+  <Text id="repeat_mode_3_text" value="길게 누르고 때시면 해지됩니다"/>
+  <Text id="loop_times_text" value="반복 횟수(1~255):"/>
+  <Text id="fire_delay_text" value="Delays(4~255 ms):"/>
+  <Text id="fire_times_text" value="Number Of Times(1~255):"/>
+  
+  <!--mouse Performance-->
+  <Text id="dpi_setting_text" value="DPI 설정"/>
+  <Text id="dpi_color_setting_text" value="DPI 색상"/>
+  <Text id="dpi_setting1_text" value="DPI 설정 #1"/>
+  <Text id="dpi_setting2_text" value="DPI 설정 #2"/>
+  <Text id="dpi_setting3_text" value="DPI 설정 #3"/>
+  <Text id="dpi_setting4_text" value="DPI 설정 #4"/>
+  <Text id="dpi_setting5_text" value="DPI 설정 #5"/>
+  <Text id="dpi_setting6_text" value="DPI 설정 #6"/>
+  <Text id="dpi_setting7_text" value="DPI 설정 #7"/>
+  <Text id="dpi_setting8_text" value="DPI 설정 #8"/>
+  <Text id="mouse_move_speed_text" value="마우스 움직임 속도"/>
+  <Text id="mouse_double_click_speed_text" value="더블클릭 속도"/>
+  <Text id="mouse_scroll_speed_text" value="마우스 스크롤 속도"/>
+  <Text id="mouse_scroll_one_page_text" value="스크롤 페이지"/>
+  <Text id="mouse_polling_rate_text" value="폴링레이트"/>
+  <Text id="slow_text" value="느린"/>
+  <Text id="fast_text" value="빠른"/>
+  <Text id="125_text" value="125"/>
+  <Text id="250_text" value="250"/>
+  <Text id="500_text" value="500"/>
+  <Text id="1000_text" value="1000"/>
+  <Text id="reset_dpi_text" value="초기화"/>
+  <Text id="mouse_attribute_text" value="마우스 속성"/>
+  <Text id="open_mouse_attribute_text" value="마우스 속성 열기"/>
+  
+  <!--mouse Light-->
+  <Text id="light_mode_text" value="모드"/>
+  <Text id="brightness_text" value="밝기"/>
+  <Text id="breathing_text" value="브리딩"/>
+  <Text id="preview_text" value="미리보기:"/>
+  <Text id="mouse_lightmode1" value="Wave"/>
+  <Text id="mouse_lightmode2" value="Static"/>
+  <Text id="mouse_lightmode3" value="브리딩"/>
+  <Text id="mouse_lightmode4" value="Spectrum"/>
+  <Text id="mouse_lightmode5" value="Tide"/>
+  <Text id="mouse_lightmode6" value="Pulsing"/>
+  <Text id="color_cycle_text" value="믹스 컬러"/>
+  <Text id="direction_text" value="방향:"/>
+  <Text id="left_text" value="왼쪽"/>
+  <Text id="right_text" value="오른쪽"/>
+  <Text id="synchronize_text" value="싱크"/>
+  <Text id="clockwise_text" value="Front"/>
+  <Text id="counterclockwise_text" value="Rear"/>
+  
+  <!--Warning-->
+  <Text id="warning_title_text" value="경고!"/>
+  <Text id="delete_profile_text" value="이 프로필을 삭제 하시겠습니까?"/>
+  <Text id="delete_macro_text" value="이 매크로를 삭제 하시겠습니까?"/>
+  <Text id="one_click_text" value="버튼 하나는 &quot;좌클릭&quot; 이어야 합니다!"/>
+  <Text id="no_device_text" value="장치 없음"/>
+  <Text id="save_macro_text" value="매크로 데이터가 저장되지 않았습니다. 저장하거나 취소하십시오!"/>
+  <Text id="sleep_device_text" value="장치 절전!"/>
+  
+  <!--Macro-->
+  <Text id="macro_name_text" value="매크로 이름"/>
+  <Text id="macro_mouse_event_text" value="마우스 이벤트"/>
+  <Text id="macro_command_text" value="마우스 매크로"/>
+  <Text id="mouse_key_1_text" value="왼쪽 클릭"/>
+  <Text id="mouse_key_2_text" value="오른쪽 클릭"/>
+  <Text id="mouse_key_3_text" value="앞으로 가기"/>
+  <Text id="mouse_key_4_text" value="앞으로"/>
+  <Text id="mouse_key_5_text" value="뒤로"/>
+  <Text id="insert_mouse_event_text" value="마우스 이벤트"/>
+  <Text id="start_recording_text" value="녹화"/>
+  <Text id="stop_recording_text" value="일시정지"/>
+  <Text id="macro_list_header_key_text" value="키"/>
+  <Text id="macro_list_header_action_text" value="동작"/>
+  <Text id="macro_list_header_delay_text" value="딜레이(ms)"/>
+  <Text id="macro_uptop_text" value="맨 위로"/>
+  <Text id="macro_downbottom_text" value="맨 아래로"/>
+  <Text id="macro_up_text" value="위로"/>
+  <Text id="macro_down_text" value="아래로"/>
+  <Text id="macro_delete_action_text" value="삭제"/>
+  <Text id="macro_clear_action_text" value="모두삭제"/>
+  <Text id="save_text" value="저장"/>
+  <Text id="cancel_text" value="취소"/>
+  <Text id="export_text" value="내보내기"/>
+  <Text id="import_text" value="가져오기"/>
+  <Text id="macro_edit_text" value="편집"/>
+  
+  <Text id="record_delay_text" value="녹화 딜레이"/>
+  <Text id="no_delay_text" value="분 딜레이"/>
+  <Text id="default_delay_text" value="초 기본값 딜레이"/>
+  <Text id="macro_list_text" value="매크로 리스트"/>
+  <Text id="insert_text" value="삽입"/>
+  <Text id="delay_before_text" value="이전 딜레이 시간"/>
+  <Text id="delay_after_text" value="이후 딜레이 시간"/>
+  <Text id="record_before_text" value="이전 녹화"/>
+  <Text id="record_after_text" value="이후 녹화"/>
+  <Text id="insert_delay_text" value="삽입 지연"/>
+  <Text id="delay_times_text" value="딜레이 타임"/>
+  <Text id="ms_text" value="MS"/>
+  <Text id="insert_delay_ok_text" value="삽입"/>
+  <Text id="insert_delay_cancel_text" value="취소"/>
+  <Text id="insert_key_ok_text" value="저장"/>
+  
+  
+  <!--Command-->
+  <Text id="left_click_text" value="왼쪽 클릭"/>
+  <Text id="right_click_text" value="오른쪽 클릭"/>
+  <Text id="wheel_click_text" value="중간 클릭"/>
+  <Text id="forward_text" value="앞으로"/>
+  <Text id="backward_text" value="뒤로"/>
+  <Text id="dpi_cycle_text" value="DPI 싸이클"/>
+  <Text id="dpi_up_text" value="DPI +"/>
+  <Text id="dpi_down_text" value="DPI -"/>
+  <Text id="double_click_text" value="더블클릭"/>
+  <Text id="fire_button_text" value="단축키"/>
+  <Text id="scroll_up_text" value="스크롤 업"/>
+  <Text id="scroll_down_text" value="스크롤 다운"/>
+  <Text id="titl_right_text" value="스크롤 오른쪽"/>
+  <Text id="titl_left_text" value="스크롤 왼쪽"/>
+  
+  <Text id="media_player_text" value="미디어 플레이어"/>
+  <Text id="play_pause_text" value="재생 / 일시정지"/>
+  <Text id="media_stop_text" value="정지"/>
+  <Text id="previous_track_text" value="이전곡"/>
+  <Text id="next_track_text" value="다음곡"/>
+  <Text id="volume_up_text" value="볼륨 +"/>
+  <Text id="volume_down_text" value="볼륨 -"/>
+  <Text id="mute_text" value="음소거"/>
+  
+  <Text id="cut_text" value="잘라내기"/>
+  <Text id="copy_text" value="복사"/>
+  <Text id="paste_text" value="붙이기"/>
+  <Text id="open_text" value="열기"/>
+  <Text id="save_text" value="저장"/>
+  <Text id="find_text" value="찾기"/>
+  <Text id="redo_text" value="되돌리기"/>
+  <Text id="undo_text" value="실행 취소"/>
+  <Text id="select_all_text" value="모두선택"/>
+  <Text id="print_text" value="프린트"/>
+  <Text id="close_window_text" value="윈도우 닫기"/>
+  <Text id="swap_windows_text" value="윈도우 스왑"/>
+  <Text id="show_desktop_text" value="바탕화면 보기"/>
+  <Text id="run_command_text" value="실행"/>
+  <Text id="lock_pc_text" value="PC 잠금"/>
+  
+  <Text id="browser_home_text" value="브라우저 홈"/>
+  <Text id="browser_favorites_text" value="브라우저 즐겨찾기"/>
+  <Text id="browser_forward_text" value="브라우저 다음 페이지"/>
+  <Text id="browser_backward_text" value="브라우저 이전 페이지"/>
+  <Text id="browser_stop_text" value="브라우저 중지"/>
+  <Text id="browser_refresh_text" value="브라우저 새로고침"/>
+  <Text id="browser_search_text" value="브라우저 찾기"/>
+  <Text id="email_text" value="이메일"/>
+  <Text id="caculator_text" value="계산기"/>
+  <Text id="my_computer_text" value="내컴퓨터"/>
+  <Text id="power_text" value="전원"/>
+  <Text id="sleep_text" value="수면"/>
+  <Text id="wake_up_text" value="깨우기"/>
+  
+  <Text id="button_off_text" value="버튼 끄기"/>
+  
+  <!--macro menu-->
+	<Text id="import_text" value="가져오기"/>
+	<Text id="export_text" value="내보내기"/>
+	
+  
+  <!--Wilress light mode-->
+  <Text id="wireless_lightmode1" value="닫기"/>
+  <Text id="wireless_lightmode2" value="단색(Fix Color)"/>
+  <Text id="wireless_lightmode3" value="브리딩(Fix Color)"/>
+  <Text id="wireless_lightmode4" value="네온"/>
+  <Text id="wireless_lightmode5" value="싸이클 브리딩"/>
+  <Text id="wireless_lightmode6" value="단색(DPI Color)"/>
+  <Text id="wireless_lightmode7" value="브리딩(DPI Color)"/>
+  <Text id="wireless_lightmode8" value="웨이브"/>
+  <Text id="wireless_lightmode9" value="물결"/>
+  
+  <!--Keyboard string-->
+  <!-- 键盘按键 -->
+	<Text id="key_LCtrl" value="LCtrl" />                 
+	<Text id="key_LShift" value="LShift" />                
+	<Text id="key_LAlt"  value="LAlt" />                  
+	<Text id="key_LWin"  value="LWin" />                
+	<Text id="key_RCtrl"  value="RCtrl" />                 
+	<Text id="key_RShift" value="RShift" />                
+	<Text id="key_RAlt" value="RAlt" />                  
+	<Text id="key_RWin" value="RWin" />                
+	<Text id="key_A" value="A" />                     
+	<Text id="key_B" value="B" />                     
+	<Text id="key_C" value="C" />                     
+	<Text id="key_D" value="D" />                     
+	<Text id="key_E" value="E" />                     
+	<Text id="key_F" value="F" />                     
+	<Text id="key_G" value="G" />                     
+	<Text id="key_H" value="H" />                     
+	<Text id="key_I" value="I" />                     
+	<Text id="key_J" value="J" />                     
+	<Text id="key_K" value="K" />                     
+	<Text id="key_L" value="L" />                     
+	<Text id="key_M" value="M" />                     
+	<Text id="key_N" value="N" />                     
+	<Text id="key_O" value="O" />                     
+	<Text id="key_P" value="P" />                     
+	<Text id="key_Q" value="Q" />                     
+	<Text id="key_R" value="R" />                     
+	<Text id="key_S" value="S" />                     
+	<Text id="key_T" value="T" />                     
+	<Text id="key_U" value="U" />                     
+	<Text id="key_V" value="V" />                     
+	<Text id="key_W" value="W" />                     
+	<Text id="key_X" value="X" />                     
+	<Text id="key_Y" value="Y" />                     
+	<Text id="key_Z" value="Z" />                     
+	<Text id="key_1" value="1" />                     
+	<Text id="key_2" value="2" />                     
+	<Text id="key_3" value="3" />                     
+	<Text id="key_4" value="4" />                     
+	<Text id="key_5" value="5" />                     
+	<Text id="key_6" value="6" />                     
+	<Text id="key_7" value="7" />                     
+	<Text id="key_8" value="8" />                     
+	<Text id="key_9" value="9" />                     
+	<Text id="key_0" value="0" />                     
+	<Text id="key_Enter" value="Enter" />	               
+	<Text id="key_Esc" value="Esc" />                   
+	<Text id="key_BackSpace" value="BackSpace" />             
+	<Text id="key_Tab" value="Tab" />	                 
+	<Text id="key_Space" value="Space" />                 
+	<Text id="key_-" value="-" />                     
+	<Text id="key_=" value="=" />                     
+	<Text id="key_[" value="[" />                     
+	<Text id="key_]" value="]" />                     
+	<Text id="key_\\" value="\" />                  
+	<Text id="key_;" value=";" />                     
+	<Text id="key_'" value="'" />                     
+	<Text id="key_`" value="`" />                     
+	<Text id="key_<" value="<" />                     
+	<Text id="key_." value="." />                     
+	<Text id="key_/" value="/" />                     
+	<Text id="key_Caplk" value="Caplk" />                 
+	<Text id="key_F1" value="F1" />                    
+	<Text id="key_F2" value="F2" />                    
+	<Text id="key_F3" value="F3" />                    
+	<Text id="key_F4" value="F4" />                    
+	<Text id="key_F5" value="F5" />                    
+	<Text id="key_F6" value="F6" />                    
+	<Text id="key_F7" value="F7" />                    
+	<Text id="key_F8" value="F8" />                    
+	<Text id="key_F9" value="F9" />                    
+	<Text id="key_F10" value="F10" />                   
+	<Text id="key_F11" value="F11" />                   
+	<Text id="key_F12" value="F12" />                   
+	<Text id="key_Print Scr" value="Print Scr" />             
+	<Text id="key_Scroll Lock" value="Scroll Lock" />           
+	<Text id="key_Pause" value="Pause" />                 
+	<Text id="key_Insert" value="Insert" />                
+	<Text id="key_Home" value="Home" />                  
+	<Text id="key_Page Up" value="Page Up" />               
+	<Text id="key_Delete" value="Delete" />                
+	<Text id="key_End" value="End" />                   
+	<Text id="key_Page Down" value="Page Down" />             
+	<Text id="key_Right" value="Right" />                 
+	<Text id="key_Left" value="Left" />                  
+	<Text id="key_Down" value="Down" />                  
+	<Text id="key_Up" value="Up" />                    
+	<Text id="key_Num Lock" value="Num Lock" />              
+	<Text id="key_Num_/" value="Num /" />                 
+	<Text id="key_Num_*" value="Num *" />                 
+	<Text id="key_Num_-" value="Num -" />                 
+	<Text id="key_Num_+" value="Num +" />                 
+	<Text id="key_Num_Enter" value="Num Enter" />             
+	<Text id="key_Num_1" value="Num 1" />                 
+	<Text id="key_Num_2" value="Num 2" />                 
+	<Text id="key_Num_3" value="Num 3" />                 
+	<Text id="key_Num_4" value="Num 4" />                 
+	<Text id="key_Num_5" value="Num 5" />                 
+	<Text id="key_Num_6" value="Num 6" />                 
+	<Text id="key_Num_7" value="Num 7" />                 
+	<Text id="key_Num_8" value="Num 8" />                 
+	<Text id="key_Num_9" value="Num 9" />                 
+	<Text id="key_Num_0" value="Num 0" />                 
+	<Text id="key_Decimal" value="Decimal" />               
+	<Text id="key_App" value="App" />                   
+	<Text id="key_Launch App2" value="Launch App2" />
+	<Text id="key_Browaer Home" value="Browaer Home" />          
+	<Text id="key_Media Play Pause" value="Media Play Pause" />      
+	<Text id="key_Browser Search" value="Browser Search" />        
+	<Text id="key_Launch Mail" value="Launch Mail" />           
+	<Text id="key_Volume Up" value="Volume Up" />             
+	<Text id="key_Volume Mute" value="Volume Mute" />           
+	<Text id="key_Media Stop" value="Media Stop" />            
+	<Text id="key_Volume Down" value="Volume Down" />           
+	<Text id="key_Browser Favorites" value="Browser Favorites" />     
+	<Text id="key_Browser ForWard" value="Browser ForWard" />       
+	<Text id="key_Browser Back" value="Browser Back" />          
+	<Text id="key_Media Prev Track" value="Media Prev Track" />      
+	<Text id="key_Media Next Track" value="Media Next Track" />      
+	<Text id="key_Computer" value="Computer" />              
+	<Text id="key_Browser Refresh" value="Browser Refresh" />       
+	<Text id="key_Launch Media Select" value="Launch Media Select" />   
+	<Text id="key_Launch Media Select" value="Launch Media Select" />   
+	<Text id="key_Power" value="Power" />                 
+	<Text id="key_Sleep" value="Sleep" />                 
+	<Text id="key_Wakeup" value="Wakeup" />	 
+	<Text id="L_Button" value="왼쪽 버튼" />
+	<Text id="R_Button" value="오른쪽 버튼" />
+	<Text id="M_Button" value="중간 버튼"/>
+	<Text id="Forward_Button" value="앞으로 버튼" />
+	<Text id="Backward_Button" value="뒤로 버튼" />	
+
+	<Text id="key_down_action" value="누르기"/>
+	<Text id="key_up_action" value="해재"/>
+  
+</Res>

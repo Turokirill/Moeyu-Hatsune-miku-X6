@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Window>
+	<HorizontalLayout>
+		<Control width="50"/>
+		<VerticalLayout width="231">
+			<Control/>
+			<Container height="409" bkimage="skins\ms_1/mouse.png">
+				<Control name="wireless_key1_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_1.png" visible="false"/>
+				<Control name="wireless_key2_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_2.png" visible="false"/>
+				<Control name="wireless_key3_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_3.png" visible="false"/>
+				<Control name="wireless_key4_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_4.png" visible="false"/>
+				<Control name="wireless_key5_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_5.png" visible="false"/>
+				<Control name="wireless_key6_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_6.png" visible="false"/>
+				<Control name="wireless_key7_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_7.png" visible="false"/>
+				<Control name="wireless_key8_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_8.png" visible="false"/>
+				<Control name="wireless_key9_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_9.png" visible="false"/>
+				<Control name="wireless_key10_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_10.png" visible="false"/>
+				<Control name="wireless_key11_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_11.png" visible="false"/>
+				<Control name="wireless_key12_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_12.png" visible="false"/>
+				<Control name="wireless_key13_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_13.png" visible="false"/>
+				<Control name="wireless_key14_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_14.png" visible="false"/>
+				<Control name="wireless_key15_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_15.png" visible="false"/>
+				<Control name="wireless_key16_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_16.png" visible="false"/>
+				<Control name="wireless_key17_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_17.png" visible="false"/>
+				<Control name="wireless_key18_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_18.png" visible="false"/>
+				<Control name="wireless_key19_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_19.png" visible="false"/>
+				<Control name="wireless_key20_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_20.png" visible="false"/>
+				<Control name="wireless_key21_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_21.png" visible="false"/>
+				<Control name="wireless_key22_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_22.png" visible="false"/>
+				<Control name="wireless_key23_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_23.png" visible="false"/>
+				<Control name="wireless_key24_control" float="true" pos="0,0,231,409" bkimage="skins\ms_1\mouse/mouse_control_24.png" visible="false"/>
+			</Container>
+			<Control/>
+		</VerticalLayout>
+		
+		<VerticalLayout width="152" padding="20,0,0,0" childpadding="8">
+			<Option name="wireless_button1_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button2_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button3_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button4_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>					
+			<Option name="wireless_button5_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>	
+			<Option name="wireless_button6_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button7_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button8_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button15_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button10_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button9_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button12_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			
+			<Option name="wireless_button13_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button14_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button11_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button16_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>					
+			<Option name="wireless_button17_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>	
+			<Option name="wireless_button18_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button19_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button20_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button21_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button22_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button23_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>
+			<Option name="wireless_button24_btn" resourcetext="true" height="28" style="left_mouse_button_style" group="wireless_button" endellipsis="true" disabledimage="skins\ms_1/button_key_1.png" visible="false"
+					normalimage="skins\ms_1/button_key_1.png" hotimage="skins\ms_1/button_key_2.png" pushedimage="skins\ms_1/button_key_2.png" selectedimage="skins\ms_1/button_key_2.png"/>					
+		</VerticalLayout>
+		
+		<VerticalLayout name="wireless_button_function_hor" padding="20,30,0,0" width="284" height="375" bkimage="skins\ms_1/light_bg.png" visible="false">
+			<HorizontalLayout height="28" padding="0,10,0,0">
+				<Control width="10"/>
+				<Combo name="wireless_button_type_combo" width="152" height="28" style="profile_combo_style" itemalign="center" itemvalign="vcenter"  resourcetext="true" endellipsis="true" itemendellipsis="true"
+					dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+					<ListLabelElement height="25" resourcetext="true" text="mouse_default_function_text" tooltip="mouse_default_function_text" selected="true"/>
+					<ListLabelElement height="25" resourcetext="true" text="mouse_mouse_function_text" tooltip="mouse_mouse_function_text"/>
+					<ListLabelElement height="25" resourcetext="true" text="mouse_dpi_function_text" tooltip="mouse_dpi_function_text"/>
+					<ListLabelElement height="25" resourcetext="true" text="mouse_profile_function_text" tooltip="mouse_profile_function_text"/>
+					<ListLabelElement height="25" resourcetext="true" text="mouse_keyboard_function_text" tooltip="mouse_keyboard_function_text"/>
+					<ListLabelElement height="25" resourcetext="true" text="mouse_media_function_text" tooltip="mouse_media_function_text"/>
+					<ListLabelElement height="25" resourcetext="true" text="mouse_system_button_text" tooltip="mouse_system_button_text" visible="false"/>
+					<ListLabelElement height="25" resourcetext="true" text="mouse_macro_function_text" tooltip="mouse_macro_function_text"/>
+					<ListLabelElement height="25" resourcetext="true" text="mouse_shortcut_function_text" tooltip="mouse_shortcut_function_text"/>
+				</Combo>
+			</HorizontalLayout>
+			
+			<TabLayout name="wireless_button_type_tab_switch" padding="0,10,0,0" height="270" selectedid="8">
+					<VerticalLayout/>
+					<VerticalLayout>
+						<Label text="mouse_function_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="mouse_function_text" endellipsis="true"/>
+						<Combo name="wireless_mouse_type_combo" width="152" height="28" style="profile_combo_style" dropboxsize="0,310" padding="20,0,0,0" itemalign="center" itemvalign="vcenter"  resourcetext="true" endellipsis="true" itemendellipsis="true"
+							dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+							<ListLabelElement height="25" resourcetext="true" text="left_click_text" tooltip="left_click_text" selected="true"/>
+							<ListLabelElement height="25" resourcetext="true" text="right_click_text" tooltip="right_click_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="wheel_click_text" tooltip="wheel_click_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="forward_text" tooltip="forward_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="backward_text" tooltip="backward_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="dpi_cycle_text" tooltip="dpi_cycle_text" visible="false"/>
+							<ListLabelElement height="25" resourcetext="true" text="dpi_up_text" tooltip="dpi_up_text" visible="false"/>
+							<ListLabelElement height="25" resourcetext="true" text="dpi_down_text" tooltip="dpi_down_text" visible="false"/>
+							<ListLabelElement height="25" resourcetext="true" text="double_click_text" tooltip="double_click_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="fire_button_text" tooltip="fire_button_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="easy_aim_text" tooltip="easy_aim_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="scroll_up_text" tooltip="scroll_up_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="scroll_down_text" tooltip="scroll_down_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="disabled_function_text" tooltip="disabled_function_text"/>
+						</Combo>
+					</VerticalLayout>
+					
+					<VerticalLayout>
+						<Label text="mouse_dpi_function_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="mouse_dpi_function_text" endellipsis="true"/>
+						<Combo name="wireless_dpi_type_combo" width="152" height="28" style="profile_combo_style" dropboxsize="0,310" padding="20,0,0,0" itemalign="center" itemvalign="vcenter"  resourcetext="true" endellipsis="true" itemendellipsis="true"
+							dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+							<ListLabelElement height="25" resourcetext="true" text="dpi_cycle_text" tooltip="dpi_cycle_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="dpi_up_text" tooltip="dpi_up_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="dpi_down_text" tooltip="dpi_down_text"/>
+						</Combo>
+					</VerticalLayout>
+					
+					<VerticalLayout>
+						<Label text="mouse_profile_function_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="mouse_dpi_function_text" endellipsis="true"/>
+						<Combo name="wireless_profile_type_combo" width="152" height="28" style="profile_combo_style" dropboxsize="0,310" padding="20,0,0,0" itemalign="center" itemvalign="vcenter"  resourcetext="true" endellipsis="true" itemendellipsis="true"
+							dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+							<ListLabelElement height="25" resourcetext="true" text="profile_cycle_text" tooltip="profile_cycle_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="profile_up_text" tooltip="profile_up_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="profile_down_text" tooltip="profile_down_text"/>
+						</Combo>
+					</VerticalLayout>
+						
+					<VerticalLayout>
+						<Label text="keyboard_type_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="keyboard_type_text" endellipsis="true"/>
+						<RichEdit name="wireless_keyboard_type_edit" resourcetext="true" width="152" height="28" padding="20,0,0,0" align="center" valign="vcenter" readonly="true" textcolor="0xFFFFFFFF" textpadding="5,8,5,5"
+							normalimage="skins/profile_edit_name_1.png" hotimage="skins/profile_edit_name_2.png" focusedimage="skins/profile_edit_name_2.png"/>
+					</VerticalLayout>
+					
+					<VerticalLayout>
+						<Label text="media_function_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="media_function_text" endellipsis="true"/>
+						<Combo name="wireless_media_type_combo" width="152" height="28" style="profile_combo_style" dropboxsize="0,310" padding="20,0,0,0" itemalign="center" itemvalign="vcenter" resourcetext="true" endellipsis="true" itemendellipsis="true"
+							dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+							<ListLabelElement height="25" resourcetext="true" text="media_player_text" tooltip="media_player_text" selected="true"/>
+							<ListLabelElement height="25" resourcetext="true" text="play_pause_text" tooltip="play_pause_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="media_stop_text" tooltip="media_stop_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="previous_track_text" tooltip="previous_track_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="next_track_text" tooltip="next_track_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="volume_up_text" tooltip="volume_up_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="volume_down_text" tooltip="volume_down_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="mute_text" tooltip="mute_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="browser_home_text" tooltip="browser_home_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="browser_favorites_text" tooltip="browser_favorites_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="browser_forward_text" tooltip="browser_forward_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="browser_backward_text" tooltip="browser_backward_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="browser_stop_text" tooltip="browser_stop_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="browser_refresh_text" tooltip="browser_refresh_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="browser_search_text" tooltip="browser_search_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="email_text" tooltip="email_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="caculator_text" tooltip="caculator_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="my_computer_text" tooltip="my_computer_text"/>
+						</Combo>
+					</VerticalLayout>
+					
+					<VerticalLayout>
+						<Label text="system_function_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="system_function_text" endellipsis="true"/>
+						<Combo name="mouse_system_type_combo" width="152" height="28" style="profile_combo_style" dropboxsize="0,310" padding="20,0,0,0" itemalign="center" itemvalign="vcenter"  resourcetext="true" endellipsis="true" itemendellipsis="true"
+							dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+							<ListLabelElement height="25" resourcetext="true" text="power_text" selected="true"/>
+							<ListLabelElement height="25" resourcetext="true" text="sleep_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="wake_up_text"/>
+						</Combo>
+					</VerticalLayout>
+					
+					<VerticalLayout>
+						<Label text="select_macro_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF"  tooltip="select_macro_text" endellipsis="true"/>
+						<Combo name="wireless_macro_type_combo" width="250" height="28" style="profile_combo_style" dropboxsize="0,310" padding="20,0,0,0" itemalign="center" itemvalign="vcenter"  endellipsis="true" itemendellipsis="true"
+								dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;"/>
+						
+						<Label text="repeat_mode_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="repeat_mode_text" endellipsis="true"/>
+						<Combo name="wireless_macro_repeat_mode_combo" width="250" height="28" style="profile_combo_style" dropboxsize="0,310" padding="20,0,0,0" itemalign="center" itemvalign="vcenter" resourcetext="true" endellipsis="true" itemendellipsis="true"
+							dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+							<ListLabelElement height="25" resourcetext="true" text="repeat_mode_1_text" tooltip="repeat_mode_1_text" selected="true"/>
+							<ListLabelElement height="25" resourcetext="true" text="repeat_mode_2_text" tooltip="repeat_mode_2_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="repeat_mode_3_text" tooltip="repeat_mode_3_text"/>
+						</Combo>
+						<VerticalLayout name="wireless_loop_times_hor">
+							<Label text="loop_times_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="loop_times_text" endellipsis="true"/>
+							<RichEdit name="wireless_loop_times_edit" width="250" height="28" padding="20,0,0,0" align="center" valign="vcenter" maxchar="3" numberonly="true" textcolor="0xFFFFFFFF" textpadding="5,8,5,5"
+								normalimage="res='skins/profile_edit_name_1.png' corner='10,4,10,4'" hotimage="res='skins/profile_edit_name_2.png' corner='10,4,10,4'" focusedimage="res='skins/profile_edit_name_2.png' corner='10,4,10,4'"/>
+						</VerticalLayout>
+					</VerticalLayout>
+					
+					<VerticalLayout>
+						<Label text="shortcut_function_text" resourcetext="true" height="28" padding="10,0,0,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" tooltip="shortcut_function_text" endellipsis="true"/>
+						<Combo name="wireless_shortcut_type_combo" width="152" height="28" style="profile_combo_style" dropboxsize="0,310" padding="20,0,0,0" itemalign="center" itemvalign="vcenter" resourcetext="true" endellipsis="true" itemendellipsis="true"
+							dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+							<ListLabelElement height="25" resourcetext="true" text="cut_text" tooltip="cut_text" selected="true"/>
+							<ListLabelElement height="25" resourcetext="true" text="copy_text" tooltip="copy_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="paste_text" tooltip="paste_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="open_text" tooltip="open_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="save_text" tooltip="save_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="find_text" tooltip="find_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="redo_text" tooltip="redo_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="undo_text" tooltip="undo_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="select_all_text" tooltip="select_all_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="print_text" tooltip="print_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="close_window_text" tooltip="close_window_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="swap_windows_text" tooltip="swap_windows_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="show_desktop_text" tooltip="show_desktop_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="run_command_text" tooltip="run_command_text"/>
+							<ListLabelElement height="25" resourcetext="true" text="lock_pc_text" tooltip="lock_pc_text"/>
+						</Combo>
+					</VerticalLayout>
+				</TabLayout>
+			
+			<HorizontalLayout height="28">
+				<Control/>
+				<Button name="wireless_button_apply_btn" text="apply_text" resourcetext="true" width="75" style="profile_name_btn_style" tooltip="apply_text" endellipsis="true"/>
+				<Button name="wireless_button_cancel_btn" text="cancel_text" resourcetext="true" width="75" style="profile_name_btn_style" padding="30,0,0,0" tooltip="cancel_text" endellipsis="true"/>
+				<Control/>
+			</HorizontalLayout>
+		</VerticalLayout>
+		
+	</HorizontalLayout>
+</Window>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Window>
+	<VerticalLayout bkimage="res='skins\ms_1/dpi_setting_bg.png' corner='5,5,5,5'">
+		<VerticalLayout height="400" bkimage="res='skins\ms_1/dpi_bg.png' corner='5,5,5,5'" padding="10,10,10,0">
+			<HorizontalLayout height="30" padding="10,0,10,0">
+				<Label text="dpi_setting_text" resourcetext="true" width="100" textcolor="0xFFFFFFFF" align="left" valign="vcenter"/>
+				<Control/>
+				<Label text="dpi_color_setting_text" resourcetext="true" width="200" textcolor="0xFFFFFFFF" align="right" valign="vcenter" visible="false"/>
+			</HorizontalLayout>
+			
+			<VerticalLayout name="ver_dpi_1" height="40" padding="10,20,10,0">
+				<HorizontalLayout height="20">
+					<Option name="wireless_dpi_btn_1" text="dpi_setting1_text" width="250" group="wireless_dpi_settings" style="dpi_setting_btn_style" tooltip="dpi_setting1_text" endellipsis="true"/>
+					<Label name="wireless_dpi_value_1" width="100" text="250" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				</HorizontalLayout>
+				<HorizontalLayout height="20">
+					<Label text="100" autocalcwidth="true" align="right" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Slider name="wireless_dpi1_slider" enabled="true" sendmove="true" padding="10,3,10,0" width="600" height="12" value="3" min="1" max="100" bkimage="skins/slider_bg.png" 
+								thumbimage="skins/SliderBar_Thumb_1.png" thumbhotimage="skins/SliderBar_Thumb_2.png" thumbpushedimage="skins/SliderBar_Thumb_2.png" thumbsize="13,12" />
+					<Label text="12000" autocalcwidth="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/> 
+					<Button name="wireless_dpi_color1" width="20" padding="50,0,0,0" bkcolor="0xFFFF0000" visible="false"/>
+				</HorizontalLayout>
+			</VerticalLayout>
+			
+			<VerticalLayout name="ver_dpi_2" height="40" padding="10,25,10,0" >
+				<HorizontalLayout height="20">
+					<Option name="wireless_dpi_btn_2" text="dpi_setting2_text" width="250" group="wireless_dpi_settings" style="dpi_setting_btn_style" tooltip="dpi_setting2_text" endellipsis="true"/>
+					<Label name="wireless_dpi_value_2" width="100" text="500" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				</HorizontalLayout>
+				<HorizontalLayout height="20">
+					<Label text="100" autocalcwidth="true" align="right" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Slider name="wireless_dpi2_slider" enabled="true" sendmove="true" padding="10,3,10,0" width="600" height="12" value="3" min="1" max="100" bkimage="skins/slider_bg.png" 
+								thumbimage="skins/SliderBar_Thumb_1.png" thumbhotimage="skins/SliderBar_Thumb_2.png" thumbpushedimage="skins/SliderBar_Thumb_2.png" thumbsize="13,12" />
+					<Label text="12000" autocalcwidth="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Button name="wireless_dpi_color2" width="20" padding="50,0,0,0" bkcolor="0xFF00FF00" visible="false"/>
+				</HorizontalLayout>
+			</VerticalLayout>
+			
+			<VerticalLayout name="ver_dpi_3" height="40" padding="10,25,10,0">
+				<HorizontalLayout height="20">
+					<Option name="wireless_dpi_btn_3" text="dpi_setting3_text" width="250" group="wireless_dpi_settings" style="dpi_setting_btn_style" tooltip="dpi_setting3_text" endellipsis="true"/>
+					<Label name="wireless_dpi_value_3" width="100" text="1000" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				</HorizontalLayout>
+				<HorizontalLayout height="20">
+					<Label text="100" autocalcwidth="true" align="right" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Slider name="wireless_dpi3_slider" enabled="true" sendmove="true" padding="10,3,10,0" width="600" height="12" value="3" min="1" max="100" bkimage="skins/slider_bg.png" 
+								thumbimage="skins/SliderBar_Thumb_1.png" thumbhotimage="skins/SliderBar_Thumb_2.png" thumbpushedimage="skins/SliderBar_Thumb_2.png" thumbsize="13,12" />
+					<Label text="12000" autocalcwidth="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Button name="wireless_dpi_color3" width="20" padding="50,0,0,0" bkcolor="0xFF0000FF" visible="false"/>
+			</HorizontalLayout>
+			</VerticalLayout>
+			
+			<VerticalLayout name="ver_dpi_4" height="40" padding="10,25,10,0">
+				<HorizontalLayout height="20">
+					<Option name="wireless_dpi_btn_4" text="dpi_setting4_text" width="250" group="wireless_dpi_settings" style="dpi_setting_btn_style" tooltip="dpi_setting4_text" endellipsis="true"/>
+					<Label name="wireless_dpi_value_4" width="100" text="1000" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				</HorizontalLayout>
+				<HorizontalLayout height="20">
+					<Label text="100" autocalcwidth="true" align="right" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Slider name="wireless_dpi4_slider" enabled="true" sendmove="true" padding="10,3,10,0" width="600" height="12" value="3" min="1" max="100" bkimage="skins/slider_bg.png" 
+								thumbimage="skins/SliderBar_Thumb_1.png" thumbhotimage="skins/SliderBar_Thumb_2.png" thumbpushedimage="skins/SliderBar_Thumb_2.png" thumbsize="13,12" />
+					<Label text="12000" autocalcwidth="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Button name="wireless_dpi_color4" width="20" padding="50,0,0,0" bkcolor="0xFFFF00FF" visible="false"/>
+				</HorizontalLayout>
+			</VerticalLayout>
+			
+			<VerticalLayout name="ver_dpi_5" height="40" padding="10,25,10,0">
+				<HorizontalLayout height="20">
+					<Option name="wireless_dpi_btn_5" text="dpi_setting5_text" width="250" group="wireless_dpi_settings" style="dpi_setting_btn_style" tooltip="dpi_setting5_text" endellipsis="true"/>
+					<Label name="wireless_dpi_value_5" width="100" text="1000" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				</HorizontalLayout>
+				<HorizontalLayout height="20">
+					<Label text="100" autocalcwidth="true" align="right" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Slider name="wireless_dpi5_slider" enabled="true" sendmove="true" padding="10,3,10,0" width="600" height="12" value="3" min="1" max="100" bkimage="skins/slider_bg.png" 
+								thumbimage="skins/SliderBar_Thumb_1.png" thumbhotimage="skins/SliderBar_Thumb_2.png" thumbpushedimage="skins/SliderBar_Thumb_2.png" thumbsize="13,12" />
+					<Label text="12000" autocalcwidth="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Button name="wireless_dpi_color5" width="20" padding="50,0,0,0" bkcolor="0xFF00FFFF" visible="false"/>
+				</HorizontalLayout>
+			</VerticalLayout>
+			
+			<VerticalLayout name="ver_dpi_6" height="40" padding="10,5,10,0" visible="false">
+				<HorizontalLayout height="20">
+					<Option name="wireless_dpi_btn_6" text="dpi_setting6_text" width="250" group="wireless_dpi_settings" style="dpi_setting_btn_style" tooltip="dpi_setting6_text" endellipsis="true"/>
+					<Label name="wireless_dpi_value_6" width="100" text="1000" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				</HorizontalLayout>
+				<HorizontalLayout height="20">
+					<Label text="100" autocalcwidth="true" align="right" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Slider name="wireless_dpi6_slider" enabled="true" sendmove="true" padding="10,3,10,0" width="600" height="12" value="3" min="1" max="100" bkimage="skins/slider_bg.png" 
+								thumbimage="skins/SliderBar_Thumb_1.png" thumbhotimage="skins/SliderBar_Thumb_2.png" thumbpushedimage="skins/SliderBar_Thumb_2.png" thumbsize="13,12" />
+					<Label text="12000" autocalcwidth="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Button name="wireless_dpi_color6" width="20" padding="50,0,0,0" bkcolor="0xFFFF00FF" visible="false"/>
+				</HorizontalLayout>
+			</VerticalLayout>
+			
+			<VerticalLayout name="ver_dpi_7" height="40" padding="10,5,10,0" visible="false">
+				<HorizontalLayout height="20">
+					<Option name="wireless_dpi_btn_7" text="dpi_setting7_text" width="250" group="wireless_dpi_settings" style="dpi_setting_btn_style" tooltip="dpi_setting6_text" endellipsis="true"/>
+					<Label name="wireless_dpi_value_7" width="100" text="1000" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				</HorizontalLayout>
+				<HorizontalLayout height="20">
+					<Label text="100" autocalcwidth="true" align="right" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Slider name="wireless_dpi7_slider" enabled="true" sendmove="true" padding="10,3,10,0" width="600" height="12" value="3" min="1" max="100" bkimage="skins/slider_bg.png" 
+								thumbimage="skins/SliderBar_Thumb_1.png" thumbhotimage="skins/SliderBar_Thumb_2.png" thumbpushedimage="skins/SliderBar_Thumb_2.png" thumbsize="13,12" />
+					<Label text="12000" autocalcwidth="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Button name="wireless_dpi_color7" width="20" padding="50,0,0,0" bkcolor="0xFFFF4000" visible="false"/>
+				</HorizontalLayout>
+			</VerticalLayout>
+			
+			<VerticalLayout name="ver_dpi_8" height="40" padding="10,5,10,0" visible="false">
+				<HorizontalLayout height="20">
+					<Option name="wireless_dpi_btn_8" text="dpi_setting8_text" width="250" group="wireless_dpi_settings" style="dpi_setting_btn_style" tooltip="dpi_setting6_text" endellipsis="true"/>
+					<Label name="wireless_dpi_value_8" width="100" text="1000" align="center" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				</HorizontalLayout>
+				<HorizontalLayout height="20">
+					<Label text="100" autocalcwidth="true" align="right" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Slider name="wireless_dpi8_slider" enabled="true" sendmove="true" padding="10,3,10,0" width="600" height="12" value="3" min="1" max="100" bkimage="skins/slider_bg.png" 
+								thumbimage="skins/SliderBar_Thumb_1.png" thumbhotimage="skins/SliderBar_Thumb_2.png" thumbpushedimage="skins/SliderBar_Thumb_2.png" thumbsize="13,12" />
+					<Label text="12000" autocalcwidth="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+					<Button name="wireless_dpi_color8" width="20" padding="50,0,0,0" bkcolor="0xFFFFFFFF" visible="false"/>
+				</HorizontalLayout>
+			</VerticalLayout>
+		</VerticalLayout>
+		
+		<HorizontalLayout height="60" padding="20,0,10,0">
+			<VerticalLayout width="320">
+				<Label text="mouse_attribute_text" height="22" resourcetext="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				<Button name="mouse_attibute_btn" text="open_mouse_attribute_text" resourcetext="true" height="28" textcolor="0xFFFFFFFF" hottextcolor="0xFFfa7b03" pushedtextcolor="0xFFfa7b03" textpadding="30,0,0,0" align="left" valign="vcenter"
+					normalimage="res='skins/Windows_1.png' dest='0,1,25,27'" hotimage="res='skins/Windows_2.png' dest='0,1,25,27'" pushedimage="res='skins/Windows_2.png' dest='0,1,25,27'"/>
+			</VerticalLayout>
+			<Control/>
+			<VerticalLayout width="320">
+				<Label text="mouse_polling_rate_text" height="22" resourcetext="true" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+				<Combo name="wireless_polling_rate_combo"width="151" height="28" style="profile_combo_style"padding="0,5,0,0" itemalign="left" itemvalign="vcenter" 
+					dropbox="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot;">
+					<ListLabelElement height="25" text="125"/>
+					<ListLabelElement height="25" text="250"/>
+					<ListLabelElement height="25" text="500" selected="true"/>
+					<ListLabelElement height="25" text="1000"/>
+				</Combo>
+			</VerticalLayout>
+		</HorizontalLayout>		
+	</VerticalLayout>
+</Window>

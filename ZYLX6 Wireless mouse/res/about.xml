@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Window caption="0,0,0,40" size="400,200">
+	<VerticalLayout bkimage="skins/select_color_bg.png">
+		<HorizontalLayout name="appbar" height="40" inset="6,-1" bkcolor="#FF202223">
+			<Label name="about_title" text="about_text" align="left" valign="vcenter" width="200" textpadding="20,0,0,0" textcolor="#FFFFFFFF" resourcetext="true"/>
+			<Control/>
+			<Button name="exit" height="21" width="19" padding="0,10,10,0" bkimage="skins/close_1.png" hotimage="skins/close_2.png" pushedimage="skins/close_3.png"/>
+		</HorizontalLayout>
+		
+		<Label name="version" text="version_text" resourcetext="true" height="30" textpadding="20,0,20,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF" padding="0,20,0,0"/>
+		<Label name="copyright" text="copyright_text" resourcetext="true" height="30" textpadding="20,0,20,0" align="left" valign="vcenter" textcolor="0xFFFFFFFF"/>
+	</VerticalLayout>
+</Window>

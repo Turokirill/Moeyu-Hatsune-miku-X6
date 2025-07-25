@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Res>
+	<Text id="chinese_text" value="中文"/>
+	<Text id="english_text" value="English"/>
+	<Text id="german_text" value="German"/>
+	<Text id="polish_text" value="Polish"/>
+	<Text id="finnish_text" value="Finnish"/>
+	<Text id="swedish_text" value="Swedish"/>
+	<Text id="danish_text" value="Danish"/>
+	<Text id="hungarian_text" value="Hungarian"/>
+	<Text id="french_text" value="French"/>
+	<Text id="dutch_text" value="Dutch"/>
+	<Text id="czech_text" value="Czech"/>
+	<Text id="slovak_text" value="Slovak"/>
+	<Text id="croatia_text" value="Croatia"/>
+	<Text id="korean_text" value="한국어"/>
+	
+	<Text id="lan_text" value="语言"/>
+	<Text id="about_text" value="关于"/>
+	<Text id="version_text" value="版本号:V1.0.0.0"/>
+	<Text id="copyright_text" value="版权 (C) 2020 自由狼"/>
+  <!-- Config Page-->
+  <Text id="version" value="V1.0"/>
+  <Text id="configuration_text" value="配置"/>
+  <Text id="exit_text" value="退出"/>
+  <Text id="mouse_name_text" value="ZYLX6 Wireless mouse"/>
+  <Text id="profile_text" value="配置"/>
+  <Text id="low_power_text" value="设备需要充电"/>
+  <Text id="charging_text" value="充电中..."/>
+  <Text id="profile_1_text" value="配置 1"/>
+  <Text id="profile_2_text" value="配置 2"/>
+  <Text id="profile_3_text" value="配置 3"/>
+  <Text id="profile_4_text" value="配置 4"/>
+  <Text id="profile_5_text" value="配置 5"/>
+  <!--mouse-->
+  <Text id="mouse_light_text" value="灯光设置"/>
+  <Text id="mouse_button_text" value="按键设置"/>
+  <Text id="mouse_dpi_setting_text" value="DPI设置"/>
+  <Text id="mouse_macro_text" value="宏管理器"/>
+  <Text id="profile_menu_tips" value="菜单"/>
+  <Text id="add_profile_tips" value="增加"/>
+  <Text id="delete_profile_tips" value="删除"/>
+  <Text id="export_profile_tips" value="导出配置"/>
+  <Text id="import_profile_tips" value="导入配置"/>
+  <Text id="copy_profile_tips" value="复制"/>
+  <Text id="reset_profile_tips" value="恢复"/>
+  <Text id="profile_name_text" value="配置名称"/>
+  <Text id="confirm_text" value="确定"/>
+  <Text id="link_app_text" value="连接程序"/>
+  <Text id="apply_text" value="应用"/>
+  
+  <!--mouse Button page-->
+  <Text id="mouse_default_function_text" value="默认"/>
+  <Text id="mouse_mouse_function_text" value="鼠标功能"/>
+  <Text id="mouse_dpi_function_text" value="DPI"/>
+  <Text id="mouse_profile_function_text" value="配置"/>
+  <Text id="mouse_keyboard_function_text" value="键盘按键"/>
+  <Text id="mouse_media_function_text" value="多媒体"/>
+  <Text id="mouse_system_button_text" value="系统"/>
+  <Text id="mouse_macro_function_text" value="宏"/>
+  <Text id="mouse_shortcut_function_text" value="快捷方式"/>
+  <Text id="mouse_function_text" value="鼠标功能"/>
+  <Text id="media_function_text" value="多媒体功能"/>
+  <Text id="shortcut_function_text" value="快捷方式"/>
+  <Text id="hotkey_function_text" value="热键"/>
+  <Text id="disabled_function_text" value="禁用"/>
+  <Text id="system_function_text" value="系统热键："/>
+  <Text id="keyboard_type_text" value="请输入一个按键："/>
+  <Text id="select_macro_text" value="请选择一个宏命令："/>
+  <Text id="repeat_mode_text" value="重复方式："/>
+  <Text id="repeat_mode_1_text" value="循环次数播放"/>
+  <Text id="repeat_mode_2_text" value="任意键按下停止播放"/>
+  <Text id="repeat_mode_3_text" value="按住播放，松开停止"/>
+  <Text id="loop_times_text" value="循环次数（1~255）:"/>
+  <Text id="fire_delay_text" value="延迟（4~255 ms）："/>
+  <Text id="fire_times_text" value="循环次数（1~255）："/>
+  
+  <!--mouse Performance-->
+  <Text id="dpi_setting_text" value="DPI设置"/>
+  <Text id="dpi_color_setting_text" value="DPI颜色设置"/>
+  <Text id="dpi_setting1_text" value="DPI设置 #1"/>
+  <Text id="dpi_setting2_text" value="DPI设置 #2"/>
+  <Text id="dpi_setting3_text" value="DPI设置 #3"/>
+  <Text id="dpi_setting4_text" value="DPI设置 #4"/>
+  <Text id="dpi_setting5_text" value="DPI设置 #5"/>
+  <Text id="dpi_setting6_text" value="DPI设置 #6"/>
+  <Text id="dpi_setting7_text" value="DPI设置 #7"/>
+  <Text id="dpi_setting8_text" value="DPI设置 #8"/>
+  <Text id="mouse_move_speed_text" value="鼠标移动速度"/>
+  <Text id="mouse_double_click_speed_text" value="双击速度"/>
+  <Text id="mouse_scroll_speed_text" value="滚轮速度"/>
+  <Text id="mouse_scroll_one_page_text" value="滚动一页"/>
+  <Text id="mouse_polling_rate_text" value="回报率"/>
+  <Text id="slow_text" value="Slow"/>
+  <Text id="fast_text" value="Fast"/>
+  <Text id="125_text" value="125"/>
+  <Text id="250_text" value="250"/>
+  <Text id="500_text" value="500"/>
+  <Text id="1000_text" value="1000"/>
+  <Text id="reset_dpi_text" value="恢复出厂设置"/>
+  <Text id="mouse_attribute_text" value="鼠标属性"/>
+  <Text id="open_mouse_attribute_text" value="打开鼠标属性页"/>
+  
+  <!--mouse Light-->
+  <Text id="light_mode_text" value="模式"/>
+  <Text id="brightness_text" value="亮度"/>
+  <Text id="breathing_text" value="速度"/>
+  <Text id="preview_text" value="预览："/>
+  <!--Wilress light mode-->
+  <Text id="wireless_lightmode1" value="关闭"/>
+  <Text id="wireless_lightmode2" value="常亮"/>
+  <Text id="wireless_lightmode3" value="呼吸"/>
+  <Text id="wireless_lightmode4" value="霓虹"/>
+  <Text id="wireless_lightmode5" value="循环呼吸"/>
+  <Text id="wireless_lightmode6" value="常亮（DPI 颜色）"/>
+  <Text id="wireless_lightmode7" value="呼吸（DPI 颜色）"/>
+  <Text id="wireless_lightmode8" value="波浪"/>
+  <Text id="wireless_lightmode9" value="霓虹跑灯"/>
+  <Text id="direction_text" value="方向："/>
+  <Text id="left_text" value="向左"/>
+  <Text id="right_text" value="向右"/>
+  <Text id="synchronize_text" value="同步"/>
+  
+  <!--Warning-->
+  <Text id="warning_title_text" value="警告！"/>
+  <Text id="delete_profile_text" value="你确定要删除该配置吗？"/>
+  <Text id="delete_macro_text" value="你确定要删除该宏命令吗？"/>
+  <Text id="one_click_text" value="至少一个按键功能为“Left Click”!"/>
+  <Text id="no_device_text" value="没有设备"/>
+  <Text id="save_macro_text" value="宏鼠标没有保存，请点击确定或取消！"/>
+  <Text id="sleep_device_text" value="设备睡眠"/>
+  
+  <!--Macro-->
+  <Text id="macro_name_text" value="宏名称"/>
+  <Text id="macro_mouse_event_text" value="鼠标事件"/>
+  <Text id="macro_command_text" value="鼠标命令"/>
+  <Text id="mouse_key_1_text" value="左键"/>
+  <Text id="mouse_key_2_text" value="右键"/>
+  <Text id="mouse_key_3_text" value="中键"/>
+  <Text id="mouse_key_4_text" value="前进"/>
+  <Text id="mouse_key_5_text" value="后退"/>
+  <Text id="insert_mouse_event_text" value="鼠标动作"/>
+  <Text id="start_recording_text" value="录制"/>
+  <Text id="stop_recording_text" value="停止"/>
+  <Text id="macro_list_header_key_text" value="按键"/>
+  <Text id="macro_list_header_action_text" value="动作"/>
+  <Text id="macro_list_header_delay_text" value="延迟(ms)"/>
+  <Text id="macro_uptop_text" value="移动到顶"/>
+  <Text id="macro_downbottom_text" value="移动到底"/>
+  <Text id="macro_up_text" value="上移"/>
+  <Text id="macro_down_text" value="下移"/>
+  <Text id="macro_delete_action_text" value="删除"/>
+  <Text id="macro_clear_action_text" value="清楚全部"/>
+  <Text id="save_text" value="保存"/>
+  <Text id="cancel_text" value="取消"/>
+  <Text id="export_text" value="导出"/>
+  <Text id="import_text" value="导入"/>
+  <Text id="macro_edit_text" value="编辑"/>
+  
+  <Text id="record_delay_text" value="录制延迟"/>
+  <Text id="no_delay_text" value="最小延迟"/>
+  <Text id="default_delay_text" value="ms默认延迟"/>
+  <Text id="macro_list_text" value="宏列表"/>
+  <Text id="insert_text" value="插入"/>
+  <Text id="delay_before_text" value="之前插入延迟"/>
+  <Text id="delay_after_text" value="之后插入延迟"/>
+  <Text id="record_before_text" value="之前开始录制"/>
+  <Text id="record_after_text" value="之后开始录制"/>
+  <Text id="insert_delay_text" value="插入延迟"/>
+  <Text id="delay_times_text" value="延迟"/>
+  <Text id="ms_text" value="MS"/>
+  <Text id="insert_delay_ok_text" value="插入"/>
+  <Text id="insert_delay_cancel_text" value="取消"/>
+  <Text id="insert_key_ok_text" value="保存"/>
+  
+  
+  <!--Command-->
+  <Text id="left_click_text" value="左键"/>
+  <Text id="right_click_text" value="右键"/>
+  <Text id="wheel_click_text" value="中键"/>
+  <Text id="forward_text" value="前进"/>
+  <Text id="backward_text" value="后退"/>
+  <Text id="dpi_cycle_text" value="DPI循环"/>
+  <Text id="dpi_up_text" value="DPI +"/>
+  <Text id="dpi_down_text" value="DPI -"/>
+  <Text id="double_click_text" value="双击"/>
+  <Text id="fire_button_text" value="火力键"/>
+  <Text id="easy_aim_text" value="狙击键"/>
+  <Text id="scroll_up_text" value="向上滚动"/>
+  <Text id="scroll_down_text" value="向下滚动"/>
+  <Text id="titl_right_text" value="向右滚动"/>
+  <Text id="titl_left_text" value="向左滚动"/>
+  
+  <Text id="profile_cycle_text" value="配置循环"/>
+  <Text id="profile_up_text" value="配置 +"/>
+  <Text id="profile_down_text" value="配置 -"/>
+  
+  <Text id="media_player_text" value="媒体播放器"/>
+  <Text id="play_pause_text" value="播放/暂停"/>
+  <Text id="media_stop_text" value="停止"/>
+  <Text id="previous_track_text" value="上一曲"/>
+  <Text id="next_track_text" value="下一曲"/>
+  <Text id="volume_up_text" value="音量 +"/>
+  <Text id="volume_down_text" value="音量 -"/>
+  <Text id="mute_text" value="静音"/>
+  
+  <Text id="cut_text" value="剪切"/>
+  <Text id="copy_text" value="复制"/>
+  <Text id="paste_text" value="粘贴"/>
+  <Text id="open_text" value="打开"/>
+  <Text id="save_text" value="保存"/>
+  <Text id="find_text" value="查找"/>
+  <Text id="redo_text" value="重做"/>
+  <Text id="undo_text" value="撤销"/>
+  <Text id="select_all_text" value="全选"/>
+  <Text id="print_text" value="打印"/>
+  <Text id="close_window_text" value="关闭窗口"/>
+  <Text id="swap_windows_text" value="切换窗口"/>
+  <Text id="show_desktop_text" value="显示桌面"/>
+  <Text id="run_command_text" value="运行"/>
+  <Text id="lock_pc_text" value="锁定"/>
+  
+  <Text id="browser_home_text" value="浏览器主页"/>
+  <Text id="browser_favorites_text" value="浏览器收藏夹"/>
+  <Text id="browser_forward_text" value="浏览器前进"/>
+  <Text id="browser_backward_text" value="浏览器后退"/>
+  <Text id="browser_stop_text" value="浏览器停止"/>
+  <Text id="browser_refresh_text" value="浏览器刷新"/>
+  <Text id="browser_search_text" value="浏览器搜索"/>
+  <Text id="email_text" value="Email"/>
+  <Text id="caculator_text" value="计算器"/>
+  <Text id="my_computer_text" value="我的电脑"/>
+  <Text id="power_text" value="Power"/>
+  <Text id="sleep_text" value="Sleep"/>
+  <Text id="wake_up_text" value="Wakeup"/>
+  
+  <Text id="button_off_text" value="按键关闭"/>
+  
+  <!--Keyboard string-->
+  <!-- 键盘按键 -->
+	<Text id="key_LCtrl" value="LCtrl" />                 
+	<Text id="key_LShift" value="LShift" />                
+	<Text id="key_LAlt"  value="LAlt" />                  
+	<Text id="key_LWin"  value="LWin" />                
+	<Text id="key_RCtrl"  value="RCtrl" />                 
+	<Text id="key_RShift" value="RShift" />                
+	<Text id="key_RAlt" value="RAlt" />                  
+	<Text id="key_RWin" value="RWin" />                
+	<Text id="key_A" value="A" />                     
+	<Text id="key_B" value="B" />                     
+	<Text id="key_C" value="C" />                     
+	<Text id="key_D" value="D" />                     
+	<Text id="key_E" value="E" />                     
+	<Text id="key_F" value="F" />                     
+	<Text id="key_G" value="G" />                     
+	<Text id="key_H" value="H" />                     
+	<Text id="key_I" value="I" />                     
+	<Text id="key_J" value="J" />                     
+	<Text id="key_K" value="K" />                     
+	<Text id="key_L" value="L" />                     
+	<Text id="key_M" value="M" />                     
+	<Text id="key_N" value="N" />                     
+	<Text id="key_O" value="O" />                     
+	<Text id="key_P" value="P" />                     
+	<Text id="key_Q" value="Q" />                     
+	<Text id="key_R" value="R" />                     
+	<Text id="key_S" value="S" />                     
+	<Text id="key_T" value="T" />                     
+	<Text id="key_U" value="U" />                     
+	<Text id="key_V" value="V" />                     
+	<Text id="key_W" value="W" />                     
+	<Text id="key_X" value="X" />                     
+	<Text id="key_Y" value="Y" />                     
+	<Text id="key_Z" value="Z" />                     
+	<Text id="key_1" value="1" />                     
+	<Text id="key_2" value="2" />                     
+	<Text id="key_3" value="3" />                     
+	<Text id="key_4" value="4" />                     
+	<Text id="key_5" value="5" />                     
+	<Text id="key_6" value="6" />                     
+	<Text id="key_7" value="7" />                     
+	<Text id="key_8" value="8" />                     
+	<Text id="key_9" value="9" />                     
+	<Text id="key_0" value="0" />                     
+	<Text id="key_Enter" value="Enter" />	               
+	<Text id="key_Esc" value="Esc" />                   
+	<Text id="key_BackSpace" value="BackSpace" />             
+	<Text id="key_Tab" value="Tab" />	                 
+	<Text id="key_Space" value="Space" />                 
+	<Text id="key_-" value="-" />                     
+	<Text id="key_=" value="=" />                     
+	<Text id="key_[" value="[" />                     
+	<Text id="key_]" value="]" />                     
+	<Text id="key_xiexian" value="\" />                  
+	<Text id="key_;" value=";" />                     
+	<Text id="key_'" value="'" />                     
+	<Text id="key_`" value="`" />                     
+	<Text id="key_," value="," />                     
+	<Text id="key_." value="." />                     
+	<Text id="key_/" value="/" />                     
+	<Text id="key_Caplk" value="Caplk" />                 
+	<Text id="key_F1" value="F1" />                    
+	<Text id="key_F2" value="F2" />                    
+	<Text id="key_F3" value="F3" />                    
+	<Text id="key_F4" value="F4" />                    
+	<Text id="key_F5" value="F5" />                    
+	<Text id="key_F6" value="F6" />                    
+	<Text id="key_F7" value="F7" />                    
+	<Text id="key_F8" value="F8" />                    
+	<Text id="key_F9" value="F9" />                    
+	<Text id="key_F10" value="F10" />                   
+	<Text id="key_F11" value="F11" />                   
+	<Text id="key_F12" value="F12" />                   
+	<Text id="key_Print Scr" value="Print Scr" />             
+	<Text id="key_Scroll Lock" value="Scroll Lock" />           
+	<Text id="key_Pause" value="Pause" />                 
+	<Text id="key_Insert" value="Insert" />                
+	<Text id="key_Home" value="Home" />                  
+	<Text id="key_Page Up" value="Page Up" />               
+	<Text id="key_Delete" value="Delete" />                
+	<Text id="key_End" value="End" />                   
+	<Text id="key_Page Down" value="Page Down" />             
+	<Text id="key_Right" value="Right" />                 
+	<Text id="key_Left" value="Left" />                  
+	<Text id="key_Down" value="Down" />                  
+	<Text id="key_Up" value="Up" />                    
+	<Text id="key_Num Lock" value="Num Lock" />              
+	<Text id="key_Num_/" value="Num /" />                 
+	<Text id="key_Num_*" value="Num *" />                 
+	<Text id="key_Num_-" value="Num -" />                 
+	<Text id="key_Num_+" value="Num +" />                 
+	<Text id="key_Num_Enter" value="Num Enter" />             
+	<Text id="key_Num_1" value="Num 1" />                 
+	<Text id="key_Num_2" value="Num 2" />                 
+	<Text id="key_Num_3" value="Num 3" />                 
+	<Text id="key_Num_4" value="Num 4" />                 
+	<Text id="key_Num_5" value="Num 5" />                 
+	<Text id="key_Num_6" value="Num 6" />                 
+	<Text id="key_Num_7" value="Num 7" />                 
+	<Text id="key_Num_8" value="Num 8" />                 
+	<Text id="key_Num_9" value="Num 9" />                 
+	<Text id="key_Num_0" value="Num 0" />                 
+	<Text id="key_Num_." value="Decimal" />               
+	<Text id="key_APP" value="App" />                   
+	<Text id="key_Launch App2" value="Launch App2" />
+	<Text id="key_Browaer Home" value="Browaer Home" />          
+	<Text id="key_Media Play Pause" value="Media Play Pause" />      
+	<Text id="key_Browser Search" value="Browser Search" />        
+	<Text id="key_Launch Mail" value="Launch Mail" />           
+	<Text id="key_Volume Up" value="Volume Up" />             
+	<Text id="key_Volume Mute" value="Volume Mute" />           
+	<Text id="key_Media Stop" value="Media Stop" />            
+	<Text id="key_Volume Down" value="Volume Down" />           
+	<Text id="key_Browser Favorites" value="Browser Favorites" />     
+	<Text id="key_Browser ForWard" value="Browser ForWard" />       
+	<Text id="key_Browser Back" value="Browser Back" />          
+	<Text id="key_Media Prev Track" value="Media Prev Track" />      
+	<Text id="key_Media Next Track" value="Media Next Track" />      
+	<Text id="key_Computer" value="Computer" />              
+	<Text id="key_Browser Refresh" value="Browser Refresh" />       
+	<Text id="key_Launch Media Select" value="Launch Media Select" />   
+	<Text id="key_Launch Media Select" value="Launch Media Select" />   
+	<Text id="key_Power" value="Power" />                 
+	<Text id="key_Sleep" value="Sleep" />                 
+	<Text id="key_Wakeup" value="Wakeup" />	 
+	<Text id="L_Button" value="左键" />
+	<Text id="R_Button" value="右键" />
+	<Text id="M_Button" value="中键" />
+	<Text id="Forward_Button" value="前进" />
+	<Text id="Backward_Button" value="后退" />	
+
+	<Text id="key_down_action" value="压下"/>
+	<Text id="key_up_action" value="释放"/>
+  
+</Res>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window  showshadow="true" gdiplustext="true">
+<!-- Menu样式 -->
+<Default name="Menu" shared="true" value="bordercolor=&quot;#FF666666&quot; bordersize=&quot;1&quot; bkimage=&quot;skins/combo_bk.png&quot; inset=&quot;2,2,2,2&quot; itemtextpadding=&quot;5,0,0,0&quot; itemtextcolor=&quot;0xFFFFFFFF&quot; itemhottextcolor=&quot;0xFFFFFFFF&quot; itemselectedtextcolor=&quot;0xFFFFFFFF&quot; itemselectedimage=&quot;skins/combo_item_bk_2.png&quot; itemhotimage=&quot;skins/combo_item_bk_1.png&quot;" />
+<!-- ExplandIcon样式 -->
+<Default name="ExplandIcon" shared="true" value="skins/menu_expand.png" />
+<Default name="MenuElement" share="true" value="height=&quot;25&quot; width=&quot;135&quot;"/>
+  <Menu>
+    <MenuElement name="configuration" text="configuration_text" resourcetext="true" height="20"/>
+	<MenuElement name="exit" text="exit_text" resourcetext="true"/>
+  </Menu>
+</Window>

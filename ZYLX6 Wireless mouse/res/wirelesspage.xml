@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Window>
+	<VerticalLayout>
+		<HorizontalLayout>
+			<VerticalLayout width="220">
+				<HorizontalLayout height="350">				
+					<Control width="20"/>
+					<VerticalLayout width="152">
+						<Option name="wireless_light_btn" text="mouse_light_text" height="28" group="wireless" style="center_button" textpadding="25,0,0,0" selected="true" tooltip="mouse_light_text" endellipsis="true" align="left" textpadding="33,0,0,0"
+							normalimage="skins\ms_1/light_setting_1.png" hotimage="skins\ms_1/light_setting_2.png" pushedimage="skins\ms_1/light_setting_2.png" selectedimage="skins\ms_1/light_setting_2.png" disableedimage="skins\ms_1/light_setting_1.png"/>
+						<Option name="wireless_button_btn" text="mouse_button_text" height="28" group="wireless" style="center_button" padding="0,3,0,0" textpadding="25,0,0,0" tooltip="mouse_button_text" endellipsis="true" align="left" textpadding="33,0,0,0"
+							normalimage="skins\ms_1/button_setting_1.png" hotimage="skins\ms_1/button_setting_2.png" pushedimage="skins\ms_1/button_setting_2.png" selectedimage="skins\ms_1/button_setting_2.png" disableedimage="skins\ms_1/button_setting_1.png"/>
+						<Option name="wireless_dpi_setting_btn" text="mouse_dpi_setting_text" height="28" group="wireless" style="center_button" padding="0,3,0,0" textpadding="25,0,0,0" tooltip="mouse_dpi_setting_text" endellipsis="true" align="left" textpadding="33,0,0,0"
+							normalimage="skins\ms_1/dpi_setting_1.png" hotimage="skins\ms_1/dpi_setting_2.png" pushedimage="skins\ms_1/dpi_setting_2.png" selectedimage="skins\ms_1/dpi_setting_2.png" disableedimage="skins\ms_1/dpi_setting_2.png"/>
+						<Option name="wireless_macro_btn" text="mouse_macro_text" height="28" group="wireless" style="center_button" padding="0,3,0,0" textpadding="25,0,0,0" tooltip="mouse_macro_text" endellipsis="true" align="left" textpadding="33,0,0,0"
+							normalimage="skins\ms_1/btn_macro_1.png" hotimage="skins\ms_1/btn_macro_2.png" pushedimage="skins\ms_1/btn_macro_2.png" selectedimage="skins\ms_1/btn_macro_2.png" disableedimage="skins\ms_1/btn_macro_1.png"/>
+						<Control height="20"/>
+						
+						<HorizontalLayout height="152">
+							<Control/>
+							<VerticalLayout width="103">
+								<Option name="wireless_profile_1_btn" text="profile_1_text" height="28" group="wireless_profile" style="center_button" selected="true" tooltip="profile_1_text" endellipsis="true"
+									normalimage="skins/btn_profile_1.png" hotimage="skins/btn_profile_2.png" pushedimage="skins/btn_profile_2.png" selectedimage="skins/btn_profile_2.png" disableedimage="skins/btn_profile_1.png"/>
+								<Option name="wireless_profile_2_btn" text="profile_2_text" height="28" group="wireless_profile" style="center_button" selected="false" tooltip="profile_2_text" endellipsis="true" padding="0,3,0,0"
+									normalimage="skins/btn_profile_1.png" hotimage="skins/btn_profile_2.png" pushedimage="skins/btn_profile_2.png" selectedimage="skins/btn_profile_2.png" disableedimage="skins/btn_profile_1.png"/>
+								<Option name="wireless_profile_3_btn" text="profile_3_text" height="28" group="wireless_profile" style="center_button" selected="false" tooltip="profile_3_text" endellipsis="true" padding="0,3,0,0"
+									normalimage="skins/btn_profile_1.png" hotimage="skins/btn_profile_2.png" pushedimage="skins/btn_profile_2.png" selectedimage="skins/btn_profile_2.png" disableedimage="skins/btn_profile_1.png"/>	
+                                <Option name="wireless_profile_4_btn" text="profile_4_text" height="28" group="wireless_profile" style="center_button" selected="false" tooltip="profile_4_text" endellipsis="true" padding="0,3,0,0"
+									normalimage="skins/btn_profile_1.png" hotimage="skins/btn_profile_2.png" pushedimage="skins/btn_profile_2.png" selectedimage="skins/btn_profile_2.png" disableedimage="skins/btn_profile_1.png"/>	
+								<Option name="wireless_profile_5_btn" text="profile_5_text" height="28" group="wireless_profile" style="center_button" selected="false" tooltip="profile_5_text" endellipsis="true" padding="0,3,0,0"
+									normalimage="skins/btn_profile_1.png" hotimage="skins/btn_profile_2.png" pushedimage="skins/btn_profile_2.png" selectedimage="skins/btn_profile_2.png" disableedimage="skins/btn_profile_1.png"/>	
+							</VerticalLayout>
+							<Control/>
+						</HorizontalLayout>
+						
+						<HorizontalLayout height="28" padding="0,20,0,0">
+							<Control/>
+							<Button name="wireless_export_profile_btn" tooltip="export_profile_tips" width="31" resourcetext="true" normalimage="skins/profile_export_1.png" hotimage="skins/profile_export_2.png" pushedimage="skins/profile_export_2.png" padding="0,1,0,0"/>
+							<Control/>
+							<Button name="wireless_import_profile_btn" tooltip="import_profile_tips" width="31" resourcetext="true" normalimage="skins/profile_import_1.png" hotimage="skins/profile_import_2.png" pushedimage="skins/profile_import_2.png" padding="0,1,0,0"/>
+							<Control/>
+							<Button name="wireless_reset_profile_btn" tooltip="reset_profile_tips" width="31" resourcetext="true" normalimage="skins/profile_reset_1.png" hotimage="skins/profile_reset_2.png" pushedimage="skins/profile_reset_2.png" padding="0,1,0,0"/>		
+							<Control/>
+						</HorizontalLayout>
+					</VerticalLayout>
+					<Control/>
+				</HorizontalLayout>
+			
+				<HorizontalLayout height="52" name="hor_power" padding="0,20,0,0">
+					<Control/>
+					<VerticalLayout width="108" bkimage="skins/power_1.png">
+						<Progress name="progress_ms_1_power" float="true" pos="7,5,94,47" foreimage="skins/power_2.png" value="50" min="0" max="100" isstretchfore="false"/>
+					</VerticalLayout>
+					<Control/>
+				</HorizontalLayout>				
+				<Label name="label_power" text="50%" height="40" font="5" textcolor="0xFFFFFFFF" align="center" valign="vcenter"/>
+			</VerticalLayout>
+			
+			<TabLayout name="wireless_tab_switch" selectedid="0">
+				<WirelessLight name="wireless_light_tab" padding="0,0,0,0"/>
+				<WirelessButton name="wireless_button_tab" padding="0,0,0,0"/>
+				<WirelessDPI name="wireless_dpi_tab" padding="20,0,40,0"/>
+				<WirelessMacro name="wireless_macro_tab" padding="20,0,40,0"/>
+			</TabLayout>
+		</HorizontalLayout>
+		<Label name="wireless_sleep_label" text="sleep_device_text" resourcetext="true" float="true" pos="0,0,1000,470" bkcolor="0x7F000000" align="center" valign="vcenter" textcolor="0xFFFFFFFF" font="5"/>
+	</VerticalLayout>
+</Window>
